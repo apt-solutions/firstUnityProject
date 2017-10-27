@@ -81,6 +81,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\AnalogClocksV1\Clock2\Scripts\PlaySecSound.cs" />
+    <Compile Include="Assets\AnalogClocksV1\SampleScene\SampleScripts\Connector.cs" />
+    <Compile Include="Assets\AnalogClocksV1\Scripts\Clock.cs" />
     <Compile Include="Assets\GoogleVR\Demos\Scripts\DemoInputManager.cs" />
     <Compile Include="Assets\GoogleVR\Demos\Scripts\DemoSceneManager.cs" />
     <Compile Include="Assets\GoogleVR\Demos\Scripts\GVRDemo\GVRDemoManager.cs" />
